@@ -31,17 +31,22 @@ This project implements an MQTT broker using Eclipse Mosquitto, containerized wi
    git clone https://github.com/yourusername/mqtt-broker.git
    cd mqtt-broker
 2. Review and customize the config/mosquitto.conf file as needed.
-3. Review and customize the config/mosquitto.conf file as needed.
+3. Start the Mosquitto broker using Docker Compose:
     ```bash
     docker-compose up -d
 
-Publishing a message
-    ```bash
-    mosquitto_pub -h localhost -t test/topic -m "Hello MQTT"
+## Usage
 
-Subscribing to a topic
-    ```bash
-    mosquitto_sub -h localhost -t test/topic
+### Publishing a message
+
+```bash
+mosquitto_pub -h localhost -t test/topic -m "Hello MQTT"
+```
+### Subscribing to a topic
+
+```bash
+mosquitto_pub -h localhost -t test/topic -m "Hello MQTT"
+```
 
 This setup currently does not use username/password authentication.
 
