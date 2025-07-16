@@ -1,0 +1,100 @@
+1752662249: mosquitto version 2.0.22 starting
+1752662249: Config loaded from /mosquitto/config/mosquitto.conf.
+1752662249: Opening ipv4 listen socket on port 1883.
+1752662249: Opening ipv6 listen socket on port 1883.
+1752662249: mosquitto version 2.0.22 running
+1752662836: New connection from 172.18.0.1:45552 on port 1883.
+1752662836: New client connected from 172.18.0.1:45552 as auto-F1108E3F-47CC-B3A3-522B-651AD4AAC50E (p2, c1, k60).
+1752662836: No will message specified.
+1752662836: Sending CONNACK to auto-F1108E3F-47CC-B3A3-522B-651AD4AAC50E (0, 0)
+1752662836: Received PUBLISH from auto-F1108E3F-47CC-B3A3-522B-651AD4AAC50E (d0, q0, r1, m0, 'test/topic', ... (10 bytes))
+1752662836: Received DISCONNECT from auto-F1108E3F-47CC-B3A3-522B-651AD4AAC50E
+1752662836: Client auto-F1108E3F-47CC-B3A3-522B-651AD4AAC50E disconnected.
+1752662845: New connection from 172.18.0.1:56792 on port 1883.
+1752662845: New client connected from 172.18.0.1:56792 as auto-5AB7E6B1-594D-DB32-E435-50AD3487636A (p2, c1, k60).
+1752662845: No will message specified.
+1752662845: Sending CONNACK to auto-5AB7E6B1-594D-DB32-E435-50AD3487636A (0, 0)
+1752662845: Received SUBSCRIBE from auto-5AB7E6B1-594D-DB32-E435-50AD3487636A
+1752662845: 	test/topic (QoS 0)
+1752662845: auto-5AB7E6B1-594D-DB32-E435-50AD3487636A 0 test/topic
+1752662845: Sending SUBACK to auto-5AB7E6B1-594D-DB32-E435-50AD3487636A
+1752662845: Sending PUBLISH to auto-5AB7E6B1-594D-DB32-E435-50AD3487636A (d0, q0, r1, m0, 'test/topic', ... (10 bytes))
+1752662903: Received PINGREQ from auto-5AB7E6B1-594D-DB32-E435-50AD3487636A
+1752662903: Sending PINGRESP to auto-5AB7E6B1-594D-DB32-E435-50AD3487636A
+1752662991: Client auto-5AB7E6B1-594D-DB32-E435-50AD3487636A has exceeded timeout, disconnecting.
+1752663081: mosquitto version 2.0.22 terminating
+1752663081: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1752663090: mosquitto version 2.0.22 starting
+1752663090: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663090: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663090: Error opening password file "/mosquitto/config/password.txt".
+1752663091: mosquitto version 2.0.22 starting
+1752663091: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663091: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663091: Error opening password file "/mosquitto/config/password.txt".
+1752663091: mosquitto version 2.0.22 starting
+1752663091: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663091: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663091: Error opening password file "/mosquitto/config/password.txt".
+1752663092: mosquitto version 2.0.22 starting
+1752663092: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663092: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663092: Error opening password file "/mosquitto/config/password.txt".
+1752663093: mosquitto version 2.0.22 starting
+1752663093: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663093: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663093: Error opening password file "/mosquitto/config/password.txt".
+1752663095: mosquitto version 2.0.22 starting
+1752663095: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663095: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663095: Error opening password file "/mosquitto/config/password.txt".
+1752663097: mosquitto version 2.0.22 starting
+1752663097: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663097: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663097: Error opening password file "/mosquitto/config/password.txt".
+1752663104: mosquitto version 2.0.22 starting
+1752663104: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663104: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663104: Error opening password file "/mosquitto/config/password.txt".
+1752663117: mosquitto version 2.0.22 starting
+1752663117: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663117: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663117: Error opening password file "/mosquitto/config/password.txt".
+1752663142: mosquitto version 2.0.22 starting
+1752663142: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663142: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663142: Error opening password file "/mosquitto/config/password.txt".
+1752663192: mosquitto version 2.0.22 starting
+1752663192: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663192: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663192: Error opening password file "/mosquitto/config/password.txt".
+1752663250: mosquitto version 2.0.22 starting
+1752663250: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663250: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663250: Error opening password file "/mosquitto/config/password.txt".
+1752663309: mosquitto version 2.0.22 starting
+1752663309: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663309: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1752663309: Error opening password file "/mosquitto/config/password.txt".
+1752663367: mosquitto version 2.0.22 starting
+1752663367: Config loaded from /mosquitto/config/mosquitto.conf.
+1752663367: Opening ipv4 listen socket on port 1883.
+1752663367: Opening ipv6 listen socket on port 1883.
+1752663367: mosquitto version 2.0.22 running
+1752663375: New connection from 172.18.0.1:60934 on port 1883.
+1752663375: New client connected from 172.18.0.1:60934 as auto-F8587E96-000A-F3C0-2A6B-69449F9CB4AF (p2, c1, k60).
+1752663375: No will message specified.
+1752663375: Sending CONNACK to auto-F8587E96-000A-F3C0-2A6B-69449F9CB4AF (0, 0)
+1752663375: Received PUBLISH from auto-F8587E96-000A-F3C0-2A6B-69449F9CB4AF (d0, q0, r1, m0, 'test/topic', ... (15 bytes))
+1752663375: Received DISCONNECT from auto-F8587E96-000A-F3C0-2A6B-69449F9CB4AF
+1752663375: Client auto-F8587E96-000A-F3C0-2A6B-69449F9CB4AF disconnected.
+1752663375: New connection from 172.18.0.1:60936 on port 1883.
+1752663375: New client connected from 172.18.0.1:60936 as auto-0F63A4C3-67A5-8C70-DF5A-5DFDCC400E66 (p2, c1, k60).
+1752663375: No will message specified.
+1752663375: Sending CONNACK to auto-0F63A4C3-67A5-8C70-DF5A-5DFDCC400E66 (0, 0)
+1752663375: Received SUBSCRIBE from auto-0F63A4C3-67A5-8C70-DF5A-5DFDCC400E66
+1752663375: 	test/topic (QoS 0)
+1752663375: auto-0F63A4C3-67A5-8C70-DF5A-5DFDCC400E66 0 test/topic
+1752663375: Sending SUBACK to auto-0F63A4C3-67A5-8C70-DF5A-5DFDCC400E66
+1752663375: Sending PUBLISH to auto-0F63A4C3-67A5-8C70-DF5A-5DFDCC400E66 (d0, q0, r1, m0, 'test/topic', ... (15 bytes))
+1752663404: Client auto-0F63A4C3-67A5-8C70-DF5A-5DFDCC400E66 closed its connection.
